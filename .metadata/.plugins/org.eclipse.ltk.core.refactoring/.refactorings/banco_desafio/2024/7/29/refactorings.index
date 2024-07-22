@@ -1,0 +1,6 @@
+1721480730143	Rename type 'banco'
+1721486352954	Encapsulate field 'nome, ...'
+1721486359644	Encapsulate field 'agencia, ...'
+1721486364791	Encapsulate field 'numero, ...'
+1721488610231	Encapsulate field 'saldo, ...'
+1721501177405	Extract method 'imprimirinfocomuns'

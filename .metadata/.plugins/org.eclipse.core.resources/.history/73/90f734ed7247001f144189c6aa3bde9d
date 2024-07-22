@@ -1,0 +1,17 @@
+package DesafioBanco;
+//vamos incluir os metodos criados em conta e trazer pra ca
+//na interface os metodos não precisam ser public pra evitar redundancia fica como void apenas
+public interface IConta {
+
+	// Criar metodos
+	
+		void sacar(double valor);
+		
+		void depositar(double valor);
+		
+		void transferir(double valor , IConta contaDestino);
+		
+		void imprimirExtrato();
+
+		
+}
